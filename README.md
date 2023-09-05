@@ -1,2 +1,0 @@
-# shambhurajmane.github.io
-Portfolio
