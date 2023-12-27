@@ -11,7 +11,7 @@ title                    : "Swati Shirke / Roboticist"
 title_separator          : "-"
 name                     : &name "Swati Shirke"
 description              : &description "Student of Robotics @Worcetser Polytechnic Institue"
-url                      : "swatishirke.github.io"
+url                      : https://swatishirke.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swatishirke/swatishirke.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
