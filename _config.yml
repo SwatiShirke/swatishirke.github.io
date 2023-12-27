@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swati Shirke / Site Title"
+title                    : "Swati Shirke / Roboticist"
 title_separator          : "-"
 name                     : &name "Swati Shirke"
 description              : &description "Student of Robotics @Worcetser Polytechnic Institue"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "swatishirke.github.io"
+url                      : swatishirke.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swatishirke/swatishirke.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
