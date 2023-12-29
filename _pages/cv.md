@@ -17,19 +17,19 @@ Education
 
 Work experience
 ======
-**Vodafone India Services Pvt Ltd, India**
-* Deputy Manager (_Jan. 2021 - Jul. 2022_)
+**Vodafone India Services Pvt Ltd, India**  
+* Deputy Manager (_Jan. 2021 - Jul. 2022_)   
 Led a team of 6 junior developers and improved the work efficiency of the team by 8%: technical design creation; project deliveries; task
 allocation; effort estimation; bug resolution.
 
-* Assistant Manager (Nov. 2018 - Jan. 2021)
+* Assistant Manager (_Nov. 2018 - Jan. 2021_)   
 Automated 12 critical modules of a business case life cycle: system thinking; impact analysis; scalable & maintainable application
 design, business report generation.
 
-* Senior Executive (Jul. 2018 - Oct. 2018)
+* Senior Executive (_Jul. 2018 - Oct. 2018_)    
 Collaborated with senior leaders to establish work processes as part of the pilot batch of the application development team.
 
-* Graduate Engineer Trainee (Jul. 2017 - Jul. 2018)
+* Graduate Engineer Trainee (_Jul. 2017 - Jul. 2018_)  
 Developed a proof of concept to draw in customer interest and generate business opportunities.
 
 * Summer 2015: Research Assistant
