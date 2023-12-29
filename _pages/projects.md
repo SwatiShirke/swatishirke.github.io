@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Projects"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,14 +11,13 @@ redirect_from:
 **Course Project: Quadrotor waypoint tracking** (Oct. 2023 - Present)
 
 WPI - Working under the guidance of Prof. Yanuha Li 
-
 ∗ Implementing a reinforcement learning agent capable of executing motion planning and control for a quadrotor to
 follow a given trajectory using Proximal Policy Optimization(PPO).
 
 **Research Project: Trajectory following of autonomous vehicle** (Sept. 2023 - Present)
 
-WPI - Working under Prof. Siavash Farzan as a Graduate Student Researcher 
-∗ Vehicle modelling: Derived a modified vehicle model using Lagrangian mechanics.
+WPI - Working under Prof. Siavash Farzan as a Graduate Student Researcher  (`<br>`)
+∗ Vehicle modelling: Derived a modified vehicle model using Lagrangian mechanics. (`<br>`)
 ∗ Controller design: Designing a trajectory following control for an autonomous vehicle using a non-linear Model
 Predictive Control.
 
