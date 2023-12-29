@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I am a graduate student of Robotics engineering at Worcester Polytechnic Institute (WPI). My area of interest is an integration of Robotic control and Reinforcement Learning (RL). Presently, I am working on Trajectory following of an Autonomous Vehicle using Non-linear Model Predictive Controller under Prof. Siavash Farzan. In addition to this, I am working on Quadrotor Waypoint Tracking using RL algorithm Proximal Policy Optimization (PPO). 
+ 
  I am a graduate student of Robotics engineering at Worcester Polytechnic Institute (WPI). My area of interest is an integration of Robotic control and Reinforcement Learning (RL). Presently, I am working on Trajectory following of an Autonomous Vehicle using a Non-linear Model Predictive Controller under Prof. Siavash Farzan. In addition to this, I am working on Quadrotor Waypoint Tracking using RL algorithm Proximal Policy Optimization (PPO). 
 
 My journey in the field of Robotics began with a Cognitive Robotics and Intelligent System Lab (CRISTL) at Vishwakarma Institute of Technology, India. Here, I worked on Robotic Control, Motion Planning and  Sensor Data Processing. Further, I worked on [ROS-based Cognitive Robot](https://github.com/SwatiShirke/Robotics-/tree/master/ROS%20Based%20Cognitive%20Robot) as part of my dissertation project. 
