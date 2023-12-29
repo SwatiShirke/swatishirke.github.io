@@ -4,8 +4,8 @@ title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /projects/
+  - /projects.html
 ---
  
 I am a graduate student of Robotics engineering at Worcester Polytechnic Institute (WPI). My area of interest is an integration of Robotic control and Reinforcement Learning (RL). Presently, I am working on Trajectory following of an Autonomous Vehicle using a Non-linear Model Predictive Controller under Prof. Siavash Farzan. In addition to this, I am working on Quadrotor Waypoint Tracking using RL algorithm Proximal Policy Optimization (PPO). 
