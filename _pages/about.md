@@ -14,7 +14,7 @@ My journey in the field of Robotics began with a Cognitive Robotics and Intellig
 
 Post my BTech, I worked at Vodafone India Services Pvt Ltd as a PEGA Application Developer for 5 years.  I began my professional journey as a graduate engineer trainee, and through collaborative teamwork, leadership, and adept problem-solving, I ascended to the position of Deputy Manager. Initially, I worked on Proof Of Concept (POC) to generate business opportunities for which I received the Extra Mile Champion Award. Furthermore, as a junior developer, I automated 12 critical business modules. As a senior developer, I led a team of 6 junior developers where I was responsible for providing technical design, impact analysis, work efforts estimation, work distribution and timely deliveries of modules assigned to my team. During this phase, I improved the efficiency of my team by 8%.  I was recognized as Vodafone Star in Nov 21 and Jul 20 for successful deliveries of crucial business modules. 
 
-![image](https://github.com/SwatiShirke/swatishirke.github.io/assets/14174464/28a19b52-b800-4744-bb1c-c33e64c57230)
+
 
 
 For more info
