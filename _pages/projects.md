@@ -8,8 +8,25 @@ redirect_from:
   - /projects.html
 ---
  
-I am a graduate student of Robotics engineering at Worcester Polytechnic Institute (WPI). My area of interest is an integration of Robotic control and Reinforcement Learning (RL). Presently, I am working on Trajectory following of an Autonomous Vehicle using a Non-linear Model Predictive Controller under Prof. Siavash Farzan. In addition to this, I am working on Quadrotor Waypoint Tracking using RL algorithm Proximal Policy Optimization (PPO). 
+**Course Project: Quadrotor waypoint tracking**
+WPI - Working under the guidance of Prof. Yanuha Li Oct. 2023 - Present
+∗ Implementing a reinforcement learning agent capable of executing motion planning and control for a quadrotor to
+follow a given trajectory using Proximal Policy Optimization(PPO).
 
-My journey in the field of Robotics began with a Cognitive Robotics and Intelligent System Lab (CRISTL) at Vishwakarma Institute of Technology, India. Here, I worked on Robotic Control, Motion Planning and  Sensor Data Processing. Further, I worked on [ROS-based Cognitive Robot](https://github.com/SwatiShirke/Robotics-/tree/master/ROS%20Based%20Cognitive%20Robot) as part of my dissertation project. 
+**Research Project: Trajectory following of autonomous vehicle**
+WPI - Working under Prof. Siavash Farzan as a Graduate Student Researcher Sept. 2023 - Present
+∗ Vehicle modelling: Derived a modified vehicle model using Lagrangian mechanics.
+∗ Controller design: Designing a trajectory following control for an autonomous vehicle using a non-linear Model
+Predictive Control.
 
-Post my BTech, I worked at Vodafone India Services Pvt Ltd as a PEGA Application Developer for 5 years.  I began my professional journey as a graduate engineer trainee, and through collaborative teamwork, leadership, and adept problem-solving, I ascended to the position of Deputy Manager. Initially, I worked on Proof Of Concept (POC) to generate business opportunities for which I received the Extra Mile Champion Award. Furthermore, as a junior developer, I automated 12 critical business modules. As a senior developer, I led a team of 6 junior developers where I was responsible for providing technical design, impact analysis, work efforts estimation, work distribution and timely deliveries of modules assigned to my team. During this phase, I improved the efficiency of my team by 8%.  I was recognized as Vodafone Star in Nov 21 and Jul 20 for successful deliveries of crucial business modules. 
+**Independent Project: SONAR data filtering using Median and Kalman filter**
+Individual project Feb. 2018 - Mar. 2018
+∗ Implemented SONAR data processing using Median & Kalman filters on the Arduino platform.
+
+**Research Project: ROS-based cognitive robot**
+VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher Jan. 2016 - May. 2017
+∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
+Ziegler-Nichols method.
+∗ Web connectivity: Achieved web connectivity for the robot by employing the ROSBRIDGE server on a WLAN.
+∗ Motion planning: Implemented 2D motion planner using A* algorithm to create an occupancy grid map.
+∗ Object detection: Executed object detection and road signs recognition through the application of OpenCV
