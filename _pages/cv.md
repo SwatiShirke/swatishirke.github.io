@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Robotics Engineering, Worcester Polytechnic Institute, 2025 (expected)
+* BTech in Electronics and Telecommunication Engineering, Vishwakarma Institute Technology, India, 2017
+* Diploma in Electronics and Telecommunication, Government Polytechnic Pune, India, 2014 
 
 Work experience
 ======
