@@ -7,25 +7,25 @@ redirect_from:
   - /projects
 ---
  
-**Course Project: Quadrotor waypoint tracking** (Oct. 2023 - Present)
+**Course Project: Quadrotor waypoint tracking** _(Oct. 2023 - Present)_
 
 WPI - Working under the guidance of Prof. Yanuha Li  
 ∗ Implementing a reinforcement learning agent capable of executing motion planning and control for a quadrotor to
 follow a given trajectory using Proximal Policy Optimization(PPO).
 
-**Research Project: Trajectory following of autonomous vehicle** (Sept. 2023 - Present)
+**Research Project: Trajectory following of autonomous vehicle** _(Sept. 2023 - Present)_
 
 WPI - Working under Prof. Siavash Farzan as a Graduate Student Researcher  
 ∗ Vehicle modelling: Derived a modified vehicle model using Lagrangian mechanics.    
 ∗ Controller design: Designing a trajectory following control for an autonomous vehicle using a non-linear Model
 Predictive Control.
 
-**Independent Project: SONAR data filtering using Median and Kalman filter** (Feb. 2018 - Mar. 2018)
+**Independent Project: SONAR data filtering using Median and Kalman filter** _(Feb. 2018 - Mar. 2018)_
 
 Individual project  
 ∗ Implemented SONAR data processing using Median & Kalman filters on the Arduino platform.
 
-**Research Project: ROS-based cognitive robot** (Jan. 2016 - May. 2017)
+**Research Project: ROS-based cognitive robot** _(Jan. 2016 - May. 2017)_
 
 VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
 ∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
