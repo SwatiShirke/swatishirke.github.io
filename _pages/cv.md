@@ -32,16 +32,6 @@ Collaborated with senior leaders to establish work processes as part of the pilo
 * Graduate Engineer Trainee (_Jul. 2017 - Jul. 2018_)  
 Developed a proof of concept to draw in customer interest and generate business opportunities.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 
