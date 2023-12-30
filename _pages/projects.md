@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
+redirect_from:
+  - /projects
 ---
  
 **Course Project: Quadrotor waypoint tracking** (Oct. 2023 - Present)
