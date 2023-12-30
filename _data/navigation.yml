@@ -1,20 +1,9 @@
 # main links links
-main:
- 
- - title: "Home"
-    url: /about/ 
-    
+main: 
   - title: "Projects"
-    url: /projects/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /projects/             
+   
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ 
