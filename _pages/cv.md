@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+**Graduate Student Researcher** (_Jan. 2023 - Present_) 
+* Working as a graduate student researcher under the guidance of Prof. Siavash Farzan on autonomous vehicle fleet traffic management using multi-agent Reinforcement Learning.
+  
 **Vodafone India Services Pvt Ltd, India**  
 * Deputy Manager (_Jan. 2021 - Jul. 2022_)   
 Led a team of 6 junior developers and improved the work efficiency of the team by 8%: technical design creation; project deliveries; task
