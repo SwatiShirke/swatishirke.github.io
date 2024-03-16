@@ -13,12 +13,27 @@ WPI - Working under the guidance of Prof. Yanuha Li
 ∗ Implementing a reinforcement learning agent capable of executing motion planning and control for a quadrotor to
 follow a given trajectory using Proximal Policy Optimization(PPO).
 
-**Research Project: Trajectory following of autonomous vehicle** _(Sept. 2023 - Present)_
+**Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - Present)_
 
-WPI - Working under Prof. Siavash Farzan as a Graduate Student Researcher  
-∗ Vehicle modelling: Derived a modified vehicle model using Lagrangian mechanics.    
-∗ Controller design: Designing a trajectory following control for an autonomous vehicle using a non-linear Model
-Predictive Control.
+WPI - Working under the guidance of Prof. Siavash Farzan as a Graduate Student Researcher 
+∗ Building a MARL framework for collaborative decision-making of an AV fleet in urban traffic scenarios. We aim to
+replace the current non-adaptive intersection control method with intelligent RL policies with the MAA2C algorithm
+
+**Course Project: Novel view generation using Neural Field Radiance (NeRF)** _(Mar. 2024)_**
+
+WPI - Under the guidance of Prof. Nithin Sanket  
+∗ Implemented a pipeline to generate novel views from sparsed input images of a scene. The pipeline includes pixel-to-3D ray generation, ray sampling, positional encoding and volume rending. 
+
+**Course Project: 3D reconstruction with Structure from Motion** _(Feb. 2024)_
+
+WPI - Under the guidance of Prof. Nithin Sanket  
+∗ Implemented a pipeline to create an entire rigid structure from a set of images with different viewpoints using both
+traditional image processing and deep learning approaches.
+
+**Course Project: Robot state estimation using Kalman filter** _(Dec. 2023)_
+
+WPI - Under the guidance of Prof. Berk Calli  
+∗ Implemented a robot state estimator using Kalman filter.
 
 **Independent Project: SONAR data filtering using Median and Kalman filter** _(Feb. 2018 - Mar. 2018)_
 
