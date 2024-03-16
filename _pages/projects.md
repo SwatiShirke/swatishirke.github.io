@@ -7,12 +7,6 @@ redirect_from:
   - /projects
 ---
  
-**Course Project: Quadrotor waypoint tracking** _(Oct. 2023 - Present)_
-
-WPI - Working under the guidance of Prof. Yanuha Li  
-∗ Implementing a reinforcement learning agent capable of executing motion planning and control for a quadrotor to
-follow a given trajectory using Proximal Policy Optimization(PPO).
-
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - Present)_
 
 WPI - Working under the guidance of Prof. Siavash Farzan as a Graduate Student Researcher 
