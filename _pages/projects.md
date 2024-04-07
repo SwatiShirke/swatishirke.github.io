@@ -13,6 +13,11 @@ WPI - Working under the guidance of Prof. Siavash Farzan as a Graduate Student R
 ∗ Building a MARL framework for collaborative decision-making of an AV fleet in urban traffic scenarios. We aim to
 replace the current non-adaptive intersection control method with intelligent RL policies with the MAA2C algorithm
 
+**Course Project: Visual Inertial Odometry for Autonomous Vehicle** _(Apr. 2024 - Present)_
+
+WPI - Under the guidance of Prof. Nithin Sanket
+∗ Estimating states with sensor fusion of camera and IMU using Multi-State Constraint Kalman Filter and deep learning
+
 **Course Project: Novel view generation using Neural Field Radiance (NeRF)** _(Mar. 2024)_**
 
 WPI - Under the guidance of Prof. Nithin Sanket  
