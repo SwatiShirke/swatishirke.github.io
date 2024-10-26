@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
  **Research Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
- WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
+  WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
 * Developing a formwork for an aerial delivery system with multiple quadrotors.
 * Using Model Predictive Control (MPC) for trajectory and position control.
 * Embedding collision avoidance constraints into the MPC framework.
