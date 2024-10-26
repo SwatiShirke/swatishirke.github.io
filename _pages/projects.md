@@ -42,8 +42,8 @@ Ackermann steering into tight parking spots, achieving average times of 20-35 se
 **Research Project: ROS-based cognitive robot**_(Jan. 2016 - May. 2017)_
  
  VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
-∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
-Ziegler-Nichols method.  
-∗ Web connectivity: Achieved web connectivity for the robot by employing the ROSBRIDGE server on a WLAN.  
-∗ Motion planning: Implemented 2D motion planner using A* algorithm to create an occupancy grid map.  
-∗ Object detection: Executed object detection and road signs recognition through the application of OpenCV  
+ * Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
+Ziegler-Nichols method.
+* Web connectivity: Achieved web connectivity for the robot by employing the ROSBRIDGE server on a WLAN.  
+* Motion planning: Implemented 2D motion planner using A* algorithm to create an occupancy grid map.  
+* Object detection: Executed object detection and road signs recognition through the application of OpenCV  
