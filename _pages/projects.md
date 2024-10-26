@@ -1,3 +1,5 @@
+
+
 ---
 layout: archive
 title: "Projects"
@@ -6,38 +8,20 @@ author_profile: true
 redirect_from:
   - /projects
 ---
- 
-**Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - Present)_
+ **Course Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
+ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
+* Developing a formwork for an aerial delivery system with multiple quadrotors.
+* Using Model Predictive Control (MPC) for trajectory and position control.
+* Embedding collision avoidance constraints into the MPC framework.
+* Exploring system redundancy through null-space navigation.
+* Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
+* Creating a generic simulator with ROS and Python for academic and research use.    
 
-WPI - Working under the guidance of Prof. Siavash Farzan as a Graduate Student Researcher 
-∗ Building a MARL framework for collaborative decision-making of an AV fleet in urban traffic scenarios. We aim to
-replace the current non-adaptive intersection control method with intelligent RL policies with the MAA2C algorithm
+**Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_
+∗ Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
+* Achieved a 97% success rate in collision avoidance during lane-merging scenarios, with an average speed of 23.35 (SD: 1.43).
+* Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
-**Course Project: Visual Inertial Odometry for Autonomous Vehicle** _(Apr. 2024 - Present)_
-
-WPI - Under the guidance of Prof. Nithin Sanket
-∗ Estimating states with sensor fusion of camera and IMU using Multi-State Constraint Kalman Filter and deep learning
-
-**Course Project: Novel view generation using Neural Field Radiance (NeRF)** _(Mar. 2024)_**
-
-WPI - Under the guidance of Prof. Nithin Sanket  
-∗ Implemented a pipeline to generate novel views from sparsed input images of a scene. The pipeline includes pixel-to-3D ray generation, ray sampling, positional encoding and volume rending. 
-
-**Course Project: 3D reconstruction with Structure from Motion** _(Feb. 2024)_
-
-WPI - Under the guidance of Prof. Nithin Sanket  
-∗ Implemented a pipeline to create an entire rigid structure from a set of images with different viewpoints using both
-traditional image processing and deep learning approaches.
-
-**Course Project: Robot state estimation using Kalman filter** _(Dec. 2023)_
-
-WPI - Under the guidance of Prof. Berk Calli  
-∗ Implemented a robot state estimator using Kalman filter.
-
-**Independent Project: SONAR data filtering using Median and Kalman filter** _(Feb. 2018 - Mar. 2018)_
-
-Individual project  
-∗ Implemented SONAR data processing using Median & Kalman filters on the Arduino platform.
 
 **Research Project: ROS-based cognitive robot** _(Jan. 2016 - May. 2017)_
 
