@@ -22,8 +22,6 @@ redirect_from:
 * Achieved a 97% success rate in collision avoidance during lane-merging scenarios, with an average speed of 23.35 (SD: 1.43).
 * Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
-## Video Demonstration
-![Video Thumbnail]("_data/Intersection_clip.mp4")  
 
 
 
