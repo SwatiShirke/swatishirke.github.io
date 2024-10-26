@@ -10,17 +10,16 @@ redirect_from:
 
  **Research Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
   WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
-* Developing a formwork for an aerial delivery system with multiple quadrotors.
+* Developing a formwork for an aerial delivery system with multiple quadrotors with collision avoidance.
 * Using Model Predictive Control (MPC) for trajectory and position control.
-* Embedding collision avoidance constraints into the MPC framework.
 * Exploring system redundancy through null-space navigation.
 * Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
-* Creating a generic simulator with ROS and Python for academic and research use.    
+   
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_
 ∗ Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
-* Achieved a 97% success rate in collision avoidance during lane-merging scenarios, with an average speed of 23.35 (SD: 1.43).
-* Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
+* Achieved a 97% success rate in collision avoidance for lane-merging scenarios, with an avg speed of 23.35 (SD: 1.43).
+* Attained a 67% success rate in collision avoidance for intersection scenarios, with an avg speed of 21.14 (SD: 1.82).
 
 
 **Course Project: Trajectory control for Autonomous Vehicle**_(Jun. 2024 - July. 2024)_
@@ -41,7 +40,7 @@ a firetruck and an arsonist Wumpus through a cluttered environment with burning 
 Ackermann steering into tight parking spots, achieving average times of 20-35 seconds while avoiding collisions.
 
 **Research Project: ROS-based cognitive robot**_(Jan. 2016 - May. 2017)_
-VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
+ VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
 ∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
 Ziegler-Nichols method.  
 ∗ Web connectivity: Achieved web connectivity for the robot by employing the ROSBRIDGE server on a WLAN.  
