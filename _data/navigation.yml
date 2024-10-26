@@ -2,6 +2,9 @@
 main:
   - title: "Projects"
     url: /projects/
+
+  - title: "Projects"
+    url: /projects_new/
    
   - title: "CV"
     url: /cv/
