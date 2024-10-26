@@ -18,7 +18,7 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
    
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_
-Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
+  Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
 * Achieved a 97% success rate in collision avoidance for lane-merging scenarios, with an avg speed of 23.35 (SD: 1.43).
 * Attained a 67% success rate in collision avoidance for intersection scenarios, with an avg speed of 21.14 (SD: 1.82).
 
