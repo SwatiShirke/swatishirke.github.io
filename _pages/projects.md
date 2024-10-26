@@ -23,7 +23,7 @@ redirect_from:
 * Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
 ## Video Demonstration
-![Video Thumbnail](path_to_thumbnail_image)  
+![Video Thumbnail](_data/Intersection_clip.mp4)  
 [![Watch the Video](path_to_thumbnail_image)](path_to_your_video.mp4)
 
 
