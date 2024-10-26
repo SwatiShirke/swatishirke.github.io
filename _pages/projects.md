@@ -23,13 +23,24 @@ redirect_from:
 * Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
 
+**Course Project: Trajectory control for Autonomous Vehicle** Vehicle Dynamics, MATLAB [Code]  _(Jun. 2024 - July. 2024)_
+* Devised trajectory control systems for an AV with MPC by implementing a realistic 4-wheel dynamics state space
+model with consideration of normal load distribution.
+
+**Course Project: Intruder UAV Capture System** Control System, MATLAB [Code] _(Sep. 2024 - Nov. 2024)_
+* Developed a robust LQR controller for the quadrotor achieving precise thrust control and maintaining accuracy within
+a 10×10×10 m³ volume. Also, executed a safety protocol for boundary breaches.
 
 
+**Course Project: Wildfire** – Motion Planning, Python [Code] _(Feb. 2024 - Mar. 2024)_ 
+* Implemented an A* combinatorial planner and a Probabilistic Roadmap (PRM) sampling-based planner for navigating
+a firetruck and an arsonist Wumpus through a cluttered environment with burning obstacles.
 
-
+**Course Project: Autonomous Parking** Motion Planning, Python [Code] _(Jan. 2024 - Feb. 2024)_
+· Developed hybrid A* path planning algorithms to manoeuvre a mobile robot with differential drive and vehicles with
+Ackermann steering into tight parking spots, achieving average times of 20-35 seconds while avoiding collisions.
 
 **Research Project: ROS-based cognitive robot** _(Jan. 2016 - May. 2017)_
-
 VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
 ∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
 Ziegler-Nichols method.  
