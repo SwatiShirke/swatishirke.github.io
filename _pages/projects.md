@@ -22,6 +22,13 @@ redirect_from:
 * Achieved a 97% success rate in collision avoidance during lane-merging scenarios, with an average speed of 23.35 (SD: 1.43).
 * Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
+## Video Demonstration
+![Video Thumbnail](path_to_thumbnail_image)  
+[![Watch the Video](path_to_thumbnail_image)](path_to_your_video.mp4)
+
+
+
+
 
 **Research Project: ROS-based cognitive robot** _(Jan. 2016 - May. 2017)_
 
