@@ -8,39 +8,52 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
 
-Education
-======
-* MSc in Robotics Engineering, Worcester Polytechnic Institute, 2025 (expected)
-* BTech in Electronics and Telecommunication Engineering, Vishwakarma Institute Technology, India, 2017
-* Diploma in Electronics and Telecommunication, Government Polytechnic Pune, India, 2014 
+ **Research Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
+ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
+* Developing a formwork for an aerial delivery system with multiple quadrotors.
+* Using Model Predictive Control (MPC) for trajectory and position control.
+* Embedding collision avoidance constraints into the MPC framework.
+* Exploring system redundancy through null-space navigation.
+* Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
+* Creating a generic simulator with ROS and Python for academic and research use.    
 
-Work experience
-======
-**Graduate Student Researcher** (_Jan. 2023 - Present_) 
-* Working as a graduate student researcher under the guidance of Prof. Siavash Farzan on autonomous vehicle fleet traffic management using multi-agent Reinforcement Learning.
-  
-**Vodafone India Services Pvt Ltd, India**  
-* Deputy Manager (_Jan. 2021 - Jul. 2022_)   
-Led a team of 6 junior developers and improved the work efficiency of the team by 8%: technical design creation; project deliveries; task
-allocation; effort estimation; bug resolution.
+**Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_
+∗ Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
+* Achieved a 97% success rate in collision avoidance during lane-merging scenarios, with an average speed of 23.35 (SD: 1.43).
+* Attained a 67% success rate in collision avoidance during intersection scenarios, with an average speed of 21.14 (SD: 1.82).
 
-* Assistant Manager (_Nov. 2018 - Jan. 2021_)   
-Automated 12 critical modules of a business case life cycle: system thinking; impact analysis; scalable & maintainable application
-design, business report generation.
 
-* Senior Executive (_Jul. 2018 - Oct. 2018_)    
-Collaborated with senior leaders to establish work processes as part of the pilot batch of the application development team.
+**Course Project: Trajectory control for Autonomous Vehicle**_(Jun. 2024 - July. 2024)_
+* Devised trajectory control systems for an AV with MPC by implementing a realistic 4-wheel dynamics state space
+model with consideration of normal load distribution.
 
-* Graduate Engineer Trainee (_Jul. 2017 - Jul. 2018_)  
-Developed a proof of concept to draw in customer interest and generate business opportunities.
+**Course Project: Intruder UAV Capture System**_(Sep. 2024 - Nov. 2024)_
+* Developed a robust LQR controller for the quadrotor achieving precise thrust control and maintaining accuracy within
+a 10×10×10 m³ volume. Also, executed a safety protocol for boundary breaches.
 
-Skills
-======
 
-* Programming: C/C++, Python, PEGA
-* Platforms: Robotic Operating System(ROS 1, 2), MATLAB-Simulink, Linux
-* Libraries: gym, pyTorch, tensorflow, Keras, numpy
-* Embedded Platforms: Beagle Bone Black, Arduino, AVR, PIC18, 8051
+**Course Project: Wildfire**_(Feb. 2024 - Mar. 2024)_ 
+* Implemented an A* combinatorial planner and a Probabilistic Roadmap (PRM) sampling-based planner for navigating
+a firetruck and an arsonist Wumpus through a cluttered environment with burning obstacles.
+
+**Course Project: Autonomous Parking**_(Jan. 2024 - Feb. 2024)_
+* Developed hybrid A* path planning algorithms to manoeuvre a mobile robot with differential drive and vehicles with
+Ackermann steering into tight parking spots, achieving average times of 20-35 seconds while avoiding collisions.
+
+**Research Project: ROS-based cognitive robot**_(Jan. 2016 - May. 2017)_
+VIT- Worked under Prof Milind Patwardhan as an Undergraduate Student Researcher  
+∗ Controller design: Built robust control for 3DOF robot implementing PID controller; fine-tuning accomplished using
+Ziegler-Nichols method.  
+∗ Web connectivity: Achieved web connectivity for the robot by employing the ROSBRIDGE server on a WLAN.  
+∗ Motion planning: Implemented 2D motion planner using A* algorithm to create an occupancy grid map.  
+∗ Object detection: Executed object detection and road signs recognition through the application of OpenCV  
+
+
+
+
+
+
 
   
