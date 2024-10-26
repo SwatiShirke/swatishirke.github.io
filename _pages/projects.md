@@ -9,14 +9,16 @@ redirect_from:
 {% include base_path %}
 
  **Research Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
-/WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
+
+WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
 * Developing a formwork for an aerial delivery system with multiple quadrotors with collision avoidance with Model Predictive Control (MPC) and trajectory control .
 * Exploring system redundancy through null-space navigation.
 * Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
    
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_ 
-/WPI - Worked under Prof Siavash Farzan as a Graduate Student Researcher
+
+WPI - Worked under Prof Siavash Farzan as a Graduate Student Researcher
 * Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
 * Achieved a 97% success rate in collision avoidance for lane-merging scenarios, with an avg speed of 23.35 (SD: 1.43).
 * Attained a 67% success rate in collision avoidance for intersection scenarios, with an avg speed of 21.14 (SD: 1.82).
