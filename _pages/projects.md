@@ -1,5 +1,3 @@
-
-
 ---
 layout: archive
 title: "Projects"
@@ -7,6 +5,7 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
+{% include base_path %}
 ---
  **Research Project: Payload Transportation using Multiple Quadrotors** _(Aug. 2024 - Present)_
  WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab 
