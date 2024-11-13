@@ -15,8 +15,10 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 * Exploring system redundancy through null-space navigation.
 * Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
   
-[Watch the video on Google Drive](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EYWdc1BZ6khFk1h0bu4cK1IB81HD_CBwD_yFY-MBSsOjZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=POdUQE)
-[Watch the video on Google Drive](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EWUAb2xQBtBKpCzy5k0qlLwBhe2MSIdQAO_tqreWd7cm8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDI8H4)
+[video1](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EYWdc1BZ6khFk1h0bu4cK1IB81HD_CBwD_yFY-MBSsOjZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=POdUQE)
+[video2](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EWUAb2xQBtBKpCzy5k0qlLwBhe2MSIdQAO_tqreWd7cm8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDI8H4)
+
+[video3](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EcG9VNw4RkBMu5-UP5jnCnkBrEzI4DMuIgU3VqLzu_NTIg?e=9ILx6i)
 
 
 <img src="/_data/Circle.jpeg" alt="Project Screenshot" width="500" height="300">
