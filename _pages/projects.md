@@ -21,6 +21,14 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 
 <img src="Circle.jpeg" alt="Project Screenshot" width="500" height="300">
 
+#Results
+- **Description:** Trajectory followed
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="_data/circle.jpeg" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="/circle.jpeg" alt="Object Detection Result 2" style="width: 45%;">
+  </div>
+
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_ 
 
 WPI - Worked under Prof Siavash Farzan as a Graduate Student Researcher
