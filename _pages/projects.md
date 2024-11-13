@@ -14,6 +14,7 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 * Developing a formwork for an aerial delivery system with multiple quadrotors with collision avoidance with Model Predictive Control (MPC) and trajectory control .
 * Exploring system redundancy through null-space navigation.
 * Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
+  
 [Watch the video on Google Drive]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EYWdc1BZ6khFk1h0bu4cK1IB81HD_CBwD_yFY-MBSsOjZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=POdUQE))
 
 
