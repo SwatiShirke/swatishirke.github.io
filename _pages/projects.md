@@ -19,7 +19,7 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 [video2](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EWUAb2xQBtBKpCzy5k0qlLwBhe2MSIdQAO_tqreWd7cm8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDI8H4)
 [video3](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EcG9VNw4RkBMu5-UP5jnCnkBrEzI4DMuIgU3VqLzu_NTIg?e=9ILx6i)
 
-<img src="/_data/Circle.jpeg" alt="Project Screenshot" width="500" height="300">
+<img src="Circle.jpeg" alt="Project Screenshot" width="500" height="300">
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_ 
 
@@ -27,7 +27,8 @@ WPI - Worked under Prof Siavash Farzan as a Graduate Student Researcher
 * Conducted research on safety-critical control and planning for autonomous vehicle fleets using multi-agent Deep Reinforcement Learning.
 * Achieved a 97% success rate in collision avoidance for lane-merging scenarios, with an avg speed of 23.35 (SD: 1.43).
 * Attained a 67% success rate in collision avoidance for intersection scenarios, with an avg speed of 21.14 (SD: 1.82).
-
+[video1]((https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/Ecz2f4WGqCBMqVONUplITawBEcdBoKCk_WGlxnU-h0ErQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=93G07B))
+[vidoe2](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EaehV70TCsdGrnF_rENBq8QBj-GGeqanJ7ujkHwzvvh2bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ruaty9)
 
 **Course Project: Trajectory control for Autonomous Vehicle**_(Jun. 2024 - July. 2024)_
 * Devised trajectory control systems for an AV with MPC by implementing a realistic 4-wheel dynamics state space
