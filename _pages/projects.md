@@ -16,6 +16,7 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 * Incorporating a cable mechanism for payload lifting with a model to prevent crossovers.
   
 [Watch the video on Google Drive](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EYWdc1BZ6khFk1h0bu4cK1IB81HD_CBwD_yFY-MBSsOjZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=POdUQE)
+[Watch the video on Google Drive](https://wpi0-my.sharepoint.com/:v:/g/personal/svshirke_wpi_edu/EWUAb2xQBtBKpCzy5k0qlLwBhe2MSIdQAO_tqreWd7cm8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDI8H4)
 
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_ 
