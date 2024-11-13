@@ -25,8 +25,8 @@ WPI - Working under Prof Gunrai Li as a Graduate Student Researcher at (ACP) Lab
 - **Description:** Trajectory followed
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="_data/circle.jpeg" alt="Object Detection Result 1" style="width: 45%;">
-    <img src="/circle.jpeg" alt="Object Detection Result 2" style="width: 45%;">
+    <img src="_data/Circle.jpeg" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="/Circle.jpeg" alt="Object Detection Result 2" style="width: 45%;">
   </div>
 
 **Research Project: Multi-agent RL (MARL) for Autonomous Vehicle (AV) fleet** _(Jan. 2024 - June. 2024)_ 
